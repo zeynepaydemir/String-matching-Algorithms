@@ -1,0 +1,3 @@
+﻿  Maincpp.cpp
+c:\users\insect\documents\visual studio 2017\projects\stringmatching\stringmatching\maincpp.cpp(357): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StringMatching.vcxproj -> C:\Users\INSECT\Documents\Visual Studio 2017\Projects\StringMatching\Debug\StringMatching.exe
